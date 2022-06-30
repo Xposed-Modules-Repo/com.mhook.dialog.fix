@@ -4,5 +4,9 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Xposed-Modules-Repo/com.mhook.dialog.fix?style=plastic)
 # 简介
 由于对话框取消作者不再更新，但随着使用出现了很多问题，特对此修复了下，故有了这个修复版
+# 更新预告
+- v2.0.0  
+[+] 专属定制->增加b站的ijkplayer开源视频播放框架跳过片头功能  
+[+] 开发者功能->Intent记录
 
 
